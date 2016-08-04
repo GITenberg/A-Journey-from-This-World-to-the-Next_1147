@@ -1,0 +1,37 @@
+_repo: A-Journey-from-This-World-to-the-Next_1147
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fielding, Henry
+    aliases:
+    - Gualterus, Petrus
+    - Drawcansir, Alexander, Sir
+    - Keyber, Conny
+    - Vinegar, Hercules
+    - Trottplaid, John
+    birthdate: 1707
+    deathdate: 1754
+    gutenberg_agent_id: '537'
+    url: http://www.gutenberg.org/2009/agents/537
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Fielding
+description: A Journey from this World to the Next (1743) belongs to the travel-writing
+  tradition, and show Fielding standing in ironic relation to the genre. The Journey
+  is a powerful yet playful narrative, in which Fielding anatomizes contemporary follies
+  with his customary vigour. Using the form of a journey through the underworld, he
+  satirizes all claims to historical and political greatness.
+gutenberg_issued: '1997-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1147'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paranormal fiction'
+- !lcsh 'English fiction'
+- !lcc 'PR'
+- !lcsh 'Supernatural -- Fiction'
+- GITenberg
+title: A Journey from This World to the Next
+url: http://www.gutenberg.org/ebooks/1147
